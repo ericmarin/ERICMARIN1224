@@ -1,0 +1,43 @@
+body{
+    background-color: #353b48;
+}
+
+#seccprin{
+    background-color:#e84118;
+    width: 960px;
+    margin: 0 auto;
+}
+
+#secctitle{
+    background-color:#0097e6;
+    padding: 5%;
+    text-align: center; 
+ }
+ .img-redonda{
+     border-radius: 20% 35% 25%
+     50%; /*50%*/
+ }
+ .padre{
+     display: tsble; 
+ }
+ .hijo{
+     display: table-cell;
+ }    
+.parrafo{
+    padding: 20px;
+}
+.title{
+    text-align: center;
+    font-style: italic;
+    /*cursiva*/
+    color: #0097e6;
+}
+#text-footer{
+    text-align: center;
+    color: #353b48;
+    font-size: 25px;
+    font-weight: bold;
+    /*negrita texto*/
+}
+
+
